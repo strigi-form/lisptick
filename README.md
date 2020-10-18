@@ -1,2 +1,2 @@
 # lisptick
-LispTick clients
+LispTick for future use.
